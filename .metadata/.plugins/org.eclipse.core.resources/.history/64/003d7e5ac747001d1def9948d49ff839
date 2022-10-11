@@ -1,0 +1,10 @@
+package polymorphismDemo;
+
+import java.lang.System.Logger;
+
+public class Main {
+	EmailLogger logger = new EmailLogger ();
+	Logger.Log("Log mesajı");
+	
+
+}

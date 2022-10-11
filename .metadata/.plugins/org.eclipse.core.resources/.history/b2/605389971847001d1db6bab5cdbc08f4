@@ -1,0 +1,30 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		CreditManager creditmanager =new CreditManager();
+		creditmanager.Save();
+		creditmanager.Calculate();
+		Customer customer =new Customer ();
+		customer.Id =1;
+		customer.City ="İzmir";
+		
+		
+		CustomerManager customerManager = new CustomerManager (customer);
+		customerManager.Save();
+		customerManager.Delete();
+		Company company =new Company () ;
+		company.TaxNumber="1566488";
+		company.CompanyName ="kumtel";
+		company.Id = 500;
+		
+		CustomerManager customerManager = new CustomerManager ();
+		
+		Person person =new Person ();
+		person.FirsName ="atakan";
+		person.NationalIdendity ="56452384";
+				
+
+	}
+
+}

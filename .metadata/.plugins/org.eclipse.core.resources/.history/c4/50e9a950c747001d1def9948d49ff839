@@ -1,0 +1,8 @@
+package polymorphismDemo;
+
+public class Main {
+	EmailLogger logger = new EmailLogger ();
+	logger.Log("Email Log mesajı ");
+	
+
+}

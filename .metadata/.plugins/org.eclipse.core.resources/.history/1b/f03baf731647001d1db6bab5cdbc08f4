@@ -1,0 +1,56 @@
+
+public class Customer {
+	  public int Id;
+	  public String FirsName;
+	  public String LastName;
+	  public String NationalIdendity;
+	  public String TaxNumber;
+	  
+	  
+	  
+	  
+	public Customer() {
+		System.out.println( "müşteri nesneni başlatıldı.");
+		
+	}
+	
+	
+	public Customer(int id, String firsName, String lastName, String nationalIdendity) {
+		
+		Id = id;
+		FirsName = firsName;
+		LastName = lastName;
+		NationalIdendity = nationalIdendity;
+		
+		
+	}
+
+
+	public int getId() {
+		return Id;
+	}
+	public void setId(int id) {
+		Id = id;
+	}
+	public String getFirsName() {
+		return FirsName;
+	}
+	public void setFirsName(String firsName) {
+		FirsName = firsName;
+	}
+	public String getLastName() {
+		return LastName;
+	}
+	public void setLastName(String lastName) {
+		LastName = lastName;
+	}
+	public String getNationalIdendity() {
+		return NationalIdendity;
+	}
+	public void setNationalIdendity(String nationalIdendity) {
+		NationalIdendity = nationalIdendity;
+	}
+		
+
+
+}

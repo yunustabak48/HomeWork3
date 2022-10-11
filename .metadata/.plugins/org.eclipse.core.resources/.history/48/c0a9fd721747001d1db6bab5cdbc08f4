@@ -1,0 +1,26 @@
+
+public class Person extends Customer{
+	public String NationalIdendity;
+
+	public Person() {
+		
+	}
+
+	public Person(String nationalIdendity) {
+		
+		NationalIdendity = nationalIdendity;
+	}
+
+	public String getNationalIdendity() {
+		return NationalIdendity;
+	}
+
+	public void setNationalIdendity(String nationalIdendity) {
+		NationalIdendity = nationalIdendity;
+	}
+	
+	
+	
+	
+
+}

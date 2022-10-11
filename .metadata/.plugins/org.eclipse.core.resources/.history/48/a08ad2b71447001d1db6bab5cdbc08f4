@@ -1,0 +1,20 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		CreditManager creditmanager =new CreditManager();
+		creditmanager.Save();
+		creditmanager.Calculate();
+		Customer customer =new Customer ();
+		customer.Id =1;
+		customer.FirsName="yunus";
+		customer.LastName="tabak";
+		customer.NationalIdendity="1234566789";
+		CustomerManager customerManager = new CustomerManager (customer);
+		customerManager.Save();
+		customerManager.Delete();
+				
+
+	}
+
+}

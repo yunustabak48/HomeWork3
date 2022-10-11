@@ -1,0 +1,10 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="ICreditManager"><rhs name\="MilitaryCreditManager"/></lhs><lhs name\="polymorphismDemo.BaseLogger"><rhs name\="polymorphismDemo.BaseLogger"/></lhs><lhs name\="abstractClasses.GameCalculator"><rhs name\="abstractClasses.WomenGameCalculator"/></lhs><lhs name\="abstractDemo.BaseDatabaseManager"><rhs name\="abstractDemo.OracleDatabaseManager"/><rhs name\="abstractDemo.SqlServerDatabaseManager"/><rhs name\="abstractDemo.MySqlDatabaseManager"/></lhs><lhs name\="interfaces.ICustomerDal"><rhs name\="interfaces.OracleCustomerDal"/></lhs><lhs name\="staticDemo.ProductValidator"><rhs name\="staticDemo.ProductValidator"/></lhs><lhs name\="staticDemo.ProductManager"><rhs name\="staticDemo.ProductManager"/></lhs></history>
+content_assist_number_of_computers=17
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=22
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

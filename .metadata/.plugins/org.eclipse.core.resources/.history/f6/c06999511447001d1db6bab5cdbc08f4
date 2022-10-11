@@ -1,0 +1,11 @@
+
+public class CustomerManager {
+	
+	public CustomerManager(Customer customer) {
+		
+	}
+	public void Save() {
+		System.out.println("Muşteri kaydedildi");
+	}
+
+}

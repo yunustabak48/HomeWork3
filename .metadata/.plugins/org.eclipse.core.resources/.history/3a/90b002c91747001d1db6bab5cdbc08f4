@@ -1,0 +1,36 @@
+
+public class Customer {
+	  public int Id;
+	
+
+	  
+	  
+	  
+	  
+	public Customer() {
+		System.out.println( "müşteri nesneni başlatıldı.");
+		
+	}
+	
+	
+	public Customer(int id, String firsName, String lastName) {
+		
+		Id = id;
+		
+		
+		
+		
+	}
+
+
+	public int getId() {
+		return Id;
+	}
+	public void setId(int id) {
+		Id = id;
+	}
+
+	
+
+
+}

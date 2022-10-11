@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="ICreditManager"/>
+    <fullyQualifiedTypeName name="MilitaryCreditManager"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger.Level"/>
+    <fullyQualifiedTypeName name="java.lang.System.Logger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.FileLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.EmailLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.DatabaseLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.ConsoleLogger"/>
+    <fullyQualifiedTypeName name="polymorphismDemo.BaseLogger"/>
+    <fullyQualifiedTypeName name="overriding.OgretmenKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.TarımKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.BaseKrediManager"/>
+    <fullyQualifiedTypeName name="overriding.OgrenciKrediManager"/>
+    <fullyQualifiedTypeName name="abstractClasses.WomenGameCalculator"/>
+    <fullyQualifiedTypeName name="abstractClasses.GameCalculator"/>
+    <fullyQualifiedTypeName name="abstractDemo.OracleDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.SqlServerDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.BaseDatabaseManager"/>
+    <fullyQualifiedTypeName name="abstractDemo.MySqlDatabaseManager"/>
+    <fullyQualifiedTypeName name="interfaces.IRepository"/>
+    <fullyQualifiedTypeName name="interfaces.ICustomerDal"/>
+    <fullyQualifiedTypeName name="interfaces.OracleCustomerDal"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IEatable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IPayable"/>
+    <fullyQualifiedTypeName name="interfaceDemo.IWorkable"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductManager"/>
+    <fullyQualifiedTypeName name="staticDemo.Product"/>
+    <fullyQualifiedTypeName name="staticDemo.ProductValidator"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Crud"/>
+    <fullyQualifiedTypeName name="staticDemo.DatabaseHelper.Connection"/>
+</qualifiedTypeNameHistroy>
